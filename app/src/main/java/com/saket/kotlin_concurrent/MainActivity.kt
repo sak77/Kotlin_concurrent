@@ -13,6 +13,9 @@ import kotlin.concurrent.timer
  *
  * Focus on kotlin.concurrent package.
  * https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.concurrent/
+ *
+ * Coroutines are not part of this package. I guess they fall under the android-ktx library.
+ *
  */
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
